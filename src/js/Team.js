@@ -1,5 +1,6 @@
 import { Character } from './Character';
 import { ErrorRepository } from './ErrorRepository';
+
 const e = new ErrorRepository();
 
 // eslint-disable-next-line import/prefer-default-export

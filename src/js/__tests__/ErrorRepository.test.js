@@ -21,4 +21,3 @@ test('return unknown error', () => {
 
   expect(result).toBe('Unknown error');
 });
-
